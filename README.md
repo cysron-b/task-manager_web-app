@@ -21,7 +21,7 @@ To run the application locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/task-manager-web-app-docker.git
+   git clone https://github.com/cysron-b/task-manager_web-app-docker.git
 
    
 Navigate to the project directory:
