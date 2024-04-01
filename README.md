@@ -25,8 +25,9 @@ To run the application locally, follow these steps:
 
    
 Navigate to the project directory:
-cd task-manager_web-app
-
+   ```bash
+   cd task-manager_web-app
+````
 Open the index.html file in your web browser.
 
 
@@ -35,10 +36,16 @@ To build and run the Docker image, please make sure that Docker is installed on 
 
 
 Build the Docker image:
+```bash
 docker build -t task_manager:latest .
-
+````
 
 Run a Docker container based on the image:
+```bash
 docker run -d -p 8000:8000 task_manager:latest
-
-Access the application by navigating to http://localhost:8000 in your web browser.
+````
+Access the application by navigating to 
+```bash
+http://localhost:8000
+````
+in your web browser.
