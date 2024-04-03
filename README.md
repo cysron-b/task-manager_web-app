@@ -20,13 +20,13 @@ To run the application locally, follow these steps:
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/cysron-b/task-manager_web-app-docker.git
-
+```bash
+git clone https://github.com/cysron-b/task-manager_web-app-docker.git
+````
    
 Navigate to the project directory:
-   ```bash
-   cd task-manager_web-app
+```bash
+cd task-manager_web-app
 ````
 Open the index.html file in your web browser.
 
@@ -52,9 +52,9 @@ in your web browser.
 
 Docker Image
 You can view Image from DockerHub, DockerHub Image:[https://hub.docker.com/repository/docker/niyonshutidavid/task-managing/general](https://hub.docker.com/repository/docker/cysron/task_manager/general) , and you can also pull the Docker image from Docker Hub:
-
+```bash
 docker push cysron/task_manager:latest
-
+````
 Presentation slides
 You can view the slides using canva 
 Here:https://www.canva.com/design/DAGBM2syFiI/jDFNnf00lK3otMGDzeUnnQ/edit
