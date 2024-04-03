@@ -51,7 +51,7 @@ http://localhost:8000
 in your web browser.
 
 Docker Image
-You can view Image from DockerHub, DockerHub Image:[https://hub.docker.com/repository/docker/niyonshutidavid/task-managing/general](https://hub.docker.com/repository/docker/cysron/task_manager/general) , and you can also pull the Docker image from Docker Hub:
+You can view Image from DockerHub, DockerHub Image:https://hub.docker.com/repository/docker/cysron/task_manager/general , and you can also pull the Docker image from Docker Hub:
 ```bash
 docker push cysron/task_manager:latest
 ````
