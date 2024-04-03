@@ -51,10 +51,10 @@ http://localhost:8000
 in your web browser.
 
 Docker Image
-You can view Image from DockerHub, DockerHub Image:https://hub.docker.com/repository/docker/cysron/task_manager/general , and you can also pull the Docker image from Docker Hub:
-```bash
-docker push cysron/task_manager:latest
-````
+You can view Image from DockerHub, 
+DockerHub Image:[https://hub.docker.com/repository/docker/cysron/task_manager/general](https://hub.docker.com/layers/cysron/task_manager/latest/images/sha256-85537ab74acd14d91b7d1e5fcffda281d6a6a0e97ca66c1894a4091a653ac849?context=repo) 
+
+
 Presentation slides
 You can view the slides using canva 
 Here:https://www.canva.com/design/DAGBM2syFiI/jDFNnf00lK3otMGDzeUnnQ/edit
