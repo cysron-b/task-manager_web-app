@@ -50,6 +50,11 @@ http://localhost:8000
 ````
 in your web browser.
 
+Docker Image
+You can view Image from DockerHub, DockerHub Image:[https://hub.docker.com/repository/docker/niyonshutidavid/task-managing/general](https://hub.docker.com/repository/docker/cysron/task_manager/general) , and you can also pull the Docker image from Docker Hub:
+
+docker push cysron/task_manager:latest
+
 Presentation slides
 You can view the slides using canva 
 Here:https://www.canva.com/design/DAGBM2syFiI/jDFNnf00lK3otMGDzeUnnQ/edit
