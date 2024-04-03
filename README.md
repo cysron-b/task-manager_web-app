@@ -52,7 +52,7 @@ in your web browser.
 
 Docker Image
 You can view Image from DockerHub, 
-DockerHub Image:[https://hub.docker.com/repository/docker/cysron/task_manager/general](https://hub.docker.com/layers/cysron/task_manager/latest/images/sha256-85537ab74acd14d91b7d1e5fcffda281d6a6a0e97ca66c1894a4091a653ac849?context=repo) 
+DockerHub Image: https://hub.docker.com/layers/cysron/task_manager/latest/images/sha256-85537ab74acd14d91b7d1e5fcffda281d6a6a0e97ca66c1894a4091a653ac849?context=repo
 
 
 Presentation slides
