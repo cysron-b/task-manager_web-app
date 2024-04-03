@@ -49,3 +49,7 @@ Access the application by navigating to
 http://localhost:8000
 ````
 in your web browser.
+
+Presentation slides
+You can view the slides using canva 
+Here:https://www.canva.com/design/DAGBM2syFiI/jDFNnf00lK3otMGDzeUnnQ/edit
