@@ -1,7 +1,3 @@
-Certainly! Here's the updated README with the port number adjusted according to the Docker run command `docker run -d -p 8090:80 my-nginx-app`:
-
----
-
 # Task Manager Web Application with Docker
 
 This repository contains the source code for a simple Task Manager web application developed using HTML, CSS, and JavaScript. Additionally, the application is containerized using Docker for easy deployment and scalability.
